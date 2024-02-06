@@ -1,0 +1,4 @@
+# Configura o nível de log para INFO
+logging:
+  level:
+    root: INFO
