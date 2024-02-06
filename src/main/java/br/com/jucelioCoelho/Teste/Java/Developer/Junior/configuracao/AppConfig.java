@@ -1,4 +1,4 @@
-package br.com.jucelioCoelho.Teste.Java.Developer.Junior.configuratcao;
+package br.com.jucelioCoelho.Teste.Java.Developer.Junior.configuracao;
 
 import org.springframework.boot.web.client.RestTemplateBuilder;
 import org.springframework.context.annotation.Bean;

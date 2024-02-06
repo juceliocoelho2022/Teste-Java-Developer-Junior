@@ -1,4 +1,4 @@
-package br.com.jucelioCoelho.Teste.Java.Developer.Junior.configuratcao;
+package br.com.jucelioCoelho.Teste.Java.Developer.Junior.configuracao;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.mail.javamail.JavaMailSender;
